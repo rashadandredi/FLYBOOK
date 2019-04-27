@@ -1,0 +1,23 @@
+
+.jumbotron{
+  background-size: 100% 100%;
+  height: 800px;
+  text-align: center;
+}
+
+.jumbotron .container{
+  margin-top: 100px;
+  color: white;
+}
+
+.jumbotron hr{
+  width: 100px;
+  border-width: 3px;
+  border-color: white;
+}
+
+.jumbotron .btn{
+  border-radius: 10px;
+  border: none;
+  margin-top: 70px;
+}
